@@ -4,7 +4,8 @@
 
 //= require angular
 //= require angular-route
-
+//
+//= require listly.module
 //= require_tree .
 
 
