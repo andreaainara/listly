@@ -5,6 +5,9 @@
 //= require angular
 //= require angular-route
 //
+//= require angular-rails-templates
+// Templates in app/assets/templates
+//= require_tree ../templates
 //= require listly.module
 //= require_tree .
 
